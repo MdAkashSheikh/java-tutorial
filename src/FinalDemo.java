@@ -4,9 +4,7 @@ class A {
     }
 }
 class B extends A {
-    public void show() {
-        System.out.println("In B SHOW");
-    }
+
 }
 
 public class FinalDemo {
